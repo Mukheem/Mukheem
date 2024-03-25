@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mukheem
-- 👀 I’m interested in creating web applications
-- 🌱 I’m currently learning React,Python
-- 💞️ I’m looking to collaborate on MERN stack
+- 👀 I’m interested in working with XR and IoT data
+- 🌱 I’m currently studying Master's in Design for Creative and Immersive technologies
 - 📫 To reach me write on mukheemuddin@gmail.com
 
 <!---
